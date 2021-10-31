@@ -1,0 +1,4 @@
+.aws-sam
+.gitignore.swp
+samconfig.toml
+target
